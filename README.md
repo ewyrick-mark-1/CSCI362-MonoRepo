@@ -39,3 +39,9 @@ VISUAL DISPLAY:
 - White circle: Box gen boundary
 
 Press the window's close button to exit the visualization.
+
+DEMO:
+
+[![Watch the demo](https://img.youtube.com/vi/tTyxAiyr2_g/maxresdefault.jpg)](https://youtu.be/tTyxAiyr2_g)
+
+
