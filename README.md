@@ -3,7 +3,7 @@ Elliot Wyrick - 9/9/25
 
 To run:
 
-- initize cmake in hom directory                "cmake ."
+- initialize CMake in project directory         "cmake ."
 - run the makefile it creates                   "make"
 - run the executable made by the makefile       "./SelectionSort"
 
