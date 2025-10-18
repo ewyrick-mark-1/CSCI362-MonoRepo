@@ -9,7 +9,7 @@ using namespace std;
 
 
 int main(){
-    cout << "yayy";
+    cout << "yayy"; //test
     
     return 0;
 }
