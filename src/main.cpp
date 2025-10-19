@@ -235,7 +235,7 @@ int main(){
         if (user_input == "add") {
             cin >> key;
             root = insertKey(root, key);
-            printf("   Inserted %d (if it was not ther before)\n", key);
+            printf("   Inserted %d (if it was not there before)\n", key);
         } 
         else if (user_input == "delete") {
             cin >> key;
