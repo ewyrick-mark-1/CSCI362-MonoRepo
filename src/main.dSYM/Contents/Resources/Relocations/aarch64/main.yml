@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/elliotwyrick/Projects/CSCI362/AVL-trees/src/main'
+relocations:     []
+...
