@@ -1,0 +1,5 @@
+build/
+.vs/
+.vscode/
+hashing_demo.mov
+.DS_Store
