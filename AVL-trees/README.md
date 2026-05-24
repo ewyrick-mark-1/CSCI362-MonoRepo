@@ -21,7 +21,7 @@ Known Issues
 
 example use:
 
-`
+```
 Tree:
    Height : 5, Keys : 12  
    Height : 4, Keys : 6  13  
@@ -64,4 +64,8 @@ Tree:
    Height : 1, Keys : 1  3  5  7  11  15  19  
 >> exit
    Exiting...
-`
+```
+
+[DEMO](https://youtu.be/EK3UwtQUEEQ):
+
+[![Watch the demo](https://img.youtube.com/vi/EK3UwtQUEEQ/maxresdefault.jpg)](https://youtu.be/EK3UwtQUEEQ)
